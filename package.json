@@ -1,0 +1,16 @@
+{
+  "name": "camera_video",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "congyandong",
+  "license": "ISC",
+  "dependencies": {
+    "@byted-creative/camera": "0.0.19",
+    "@byted-creative/camera-cocos-layer": "0.0.19",
+    "@byted-creative/camera-face": "0.0.19"
+  }
+}
